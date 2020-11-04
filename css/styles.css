@@ -160,12 +160,12 @@ sup {
 
 a {
   /*color: #bd5d38;*/
-  color: #1DE9B6;
+  color: #454545;
   text-decoration: none;
   background-color: transparent;
 }
 a:hover {
-  color: #454545;
+  color: #FFF;
   text-decoration: none;
 
 }
@@ -6103,7 +6103,7 @@ a.close.disabled {
 .bg-primary {
   /*background-color: #bd5d38 !important;*/
   /*background-color: #1DE9B6 !important;*/
-  background-color: #454545 !important;
+  background-image: linear-gradient(to right,#454545,#4E4E4E);
 
   
 }
